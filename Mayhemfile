@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-konda
+target: k
+
+cmds:
+  - cmd: /repo/k
