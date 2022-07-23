@@ -2,4 +2,4 @@ project: konda
 target: k
 
 cmds:
-  - cmd: /repo/k
+  - cmd: /k
